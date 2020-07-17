@@ -35,6 +35,7 @@ En este curso se estudian los caracteres diagnósticos de las familias más impo
 # PROYECTOS 
 
 * Origen y divesificación de la flora en el Magdalena Medio
+![Selva húmeda tropical del Magdalena Medio](index/DSC00710.JPG)
 
 
 
